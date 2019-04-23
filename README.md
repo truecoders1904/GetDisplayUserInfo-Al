@@ -1,4 +1,4 @@
-# Get User Info
+int# Get User Info
 A small project to demonstrate getting and displaying user info
 
 ### Basic Instructions
